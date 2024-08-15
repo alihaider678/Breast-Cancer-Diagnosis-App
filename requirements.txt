@@ -1,6 +1,6 @@
 numpy
 pandas
-pickle5==0.0.11
+#pickle5==0.0.11
 plotly
 scikit_learn
 streamlit
